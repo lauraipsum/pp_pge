@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "install": "cd frontend && npm install && cd ../server && npm install",
     "dev": "concurrently \"cd frontend && npm run dev\" \"cd server && npm run dev\""
   },
-  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lauraipsum/pp_pge.git"
