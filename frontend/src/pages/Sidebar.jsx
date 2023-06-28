@@ -21,7 +21,6 @@ const options = [
   
   { name: "Sair", link: "/usuario" },
 
-
 ];
 
 const drawerWidth = 240;
