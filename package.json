@@ -1,0 +1,21 @@
+{
+  "name": "pp_pge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"cd frontend && npm run dev\" \"cd server && npm run dev\""
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauraipsum/pp_pge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauraipsum/pp_pge/issues"
+  },
+  "homepage": "https://github.com/lauraipsum/pp_pge#readme"
+}
