@@ -11,8 +11,9 @@
 </p>
                                                                                                   
 
-## Execução
+## Instalação e Execução
 npm install
+
 npm run dev
 
 
